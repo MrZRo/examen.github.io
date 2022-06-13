@@ -1,0 +1,32 @@
+body{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+    background-image: url(nubes.gif);;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    color: black;
+}
+header{
+    background-color: rgb(98, 128, 230);
+}
+h1{
+    background-color: rgb(131, 197, 227);
+    color: black;
+    text-align: center;
+}
+table{
+    border: 5px solid rgb(151, 166, 214);
+    font-size: 27px;
+}
+img{
+    border: 5px solid rgb(180, 169, 221);
+    border-radius: 5px  ;
+}
+p{
+    text-align: justify;
+    font-size: 27px;
+}
+li{
+    font-size: 27px;
+}
